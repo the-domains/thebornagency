@@ -1,0 +1,14 @@
+layout_spectrum: 0.9532600627280772
+typography_spectrum: 0.1139579031150788
+color:
+  brandStrength: 0.8283066919539124
+  lightness: 0.1513752806931734
+  saturation: 0.37827611342072487
+  rhythmicContrast: 0.1664604637771845
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: thebornagency
